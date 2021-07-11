@@ -1,3 +1,3 @@
 ```
-kubectl commands
+kubectl get events --sort-by=.metadata.creationTimestamp
 ```
